@@ -7,7 +7,7 @@
 
 ## Task
 
-`index.js` asynchronously read two directories and return nothing.
+`index.js` asynchronously reads two directories and returns nothing.
 
 Fix the script so it will return **one sorted** array with files from directories `dir/1` and `dir/2`. Ignore files with names that are not numbers.
 
