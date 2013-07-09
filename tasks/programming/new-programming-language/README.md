@@ -10,7 +10,7 @@
 The reason for this task is to understand:
 
 * How a potential employee solves tasks they never did before: approach and time.
-* Can a candidate use a documentation and can they quickly find answers online?
+* Can a candidate use documentation and can they quickly find answers online?
 
 A candidate should write a script in a programming language they don't know, so if they know Python and don't know PHP, it should be PHP. If they know Python and PHP but doesn't know Ruby, it should be Ruby. It can also be Bash or any other scripting.
 
