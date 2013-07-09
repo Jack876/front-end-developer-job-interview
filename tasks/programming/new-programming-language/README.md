@@ -25,6 +25,6 @@ E.g.:
 $ python main.py twitter
 # getting info for `twitter` from GitHub API
 # getting repos URL
-# getting a list of repos fromt the URL
+# getting a list of repos from the URL
 # print
 ```
