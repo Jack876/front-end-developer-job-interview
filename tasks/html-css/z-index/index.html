@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+    body {
+        background: #f0f0f0;
+        color: #333;
+    }
+    .questions {
+        width: 200px;
+        margin: 0 auto;
+        padding: 0px 10px 0px 20px;
+        color: #333;
+        font-size: 13px;
+    }
+    .outer {
+        position: relative;
+        width: 200px;
+        height: 200px;
+        background: #fff;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+</style>
+</head>
+<body>
+
+    <div class="questions">
+        <p>
+            Why in IE7 the purple square will be on top of the green one and how to fix it?
+        </p>
+    </div>
+
+<div class="outer">    
+    <div style="width: 150px; height: 150px; background: #28b1f8; position: absolute; top: 20px; left: 20px;">1
+        <div style="width: 50px; height: 50px; background: #28f845; position: absolute; z-index: 3; top: 40px; left: 40px;">3</div>
+    </div>
+    <div style="width: 150px; height: 150px; background: #d828f8; position: absolute; z-index: 2; top: 70px; left: 70px;">2</div>
+</div>
+</body></html>
