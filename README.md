@@ -38,3 +38,6 @@
 ## Tasks
 
 See tasks directory. Every task has its own README.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/clexit/front-end-developer-job-interview/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
